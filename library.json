@@ -1,0 +1,24 @@
+{
+  "name": "fronius",
+  "version": "0.1.0",
+  "description": "Query values from Fronius solar inverter",
+  "keywords": "REST, Fronius",
+  "authors":
+  [
+    {
+      "name": "Andreas Schneider",
+      "email": "andreas_schn@web.de",
+      "maintainer": true
+    }
+  ],
+  "license": "LGPL",
+  "frameworks": "arduino",
+  "platforms": "*",
+  "dependencies":
+  [
+    {
+      "owner": "bblanchon",
+      "name": "ArduinoJson"
+    }
+  ]
+}
